@@ -23,7 +23,7 @@ Use [IProgressIndicationService](https://docs.devexpress.com/CoreLibraries/DevEx
 
 - [Create a Custom Progress Indicator for the Spreadsheet Control](https://docs.devexpress.com/WindowsForms/403146/controls-and-libraries/spreadsheet/examples/customization/how-to-create-a-custom-progress-indicator-for-the-spreadsheet-control)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-spreadsheet-create-custom-progress-indicator&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-spreadsheet-create-custom-progress-indicator&~~~was_helpful=no)
 
